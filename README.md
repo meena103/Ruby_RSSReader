@@ -1,6 +1,7 @@
 ## Ruby_RSSReader
  
-This repository contains Ruby Implementaion of an RSS Reader Program. Code written on online ruby IDE - https://replit.com/ and maintained on GitHub repository
+This repository contains Ruby Implementaion of an RSS Reader Program. Code written on online ruby IDE - https://replit.com/ and maintained on GitHub repository.
+Default feed URL list reference - https://rss.com/blog/popular-rss-feeds/
 
 ## Get Started with the Program 
 ```sh
